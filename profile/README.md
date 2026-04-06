@@ -6,7 +6,7 @@
 </p>
 </h1>
 <p align="center">
-  African Credential Infrastructure: Issue Once. Verify Everywhere. Offline-First.
+  We build products for African markets.
   <br/>
   <strong><a href="https://aklanti.com">https://aklanti.com</a></strong>
 </p>
